@@ -1,34 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Me in a Web App</h1>
 
-## Getting Started
+<p align="center">A profile website made of </p>
 
-First, run the development server:
+<p style="display:flex; align-items:center; justify-content:center;">
+<a href="https://nextjs.org" title="NextJS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="drawing" width="100" style="margin-right:20px;"/></a>&
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TypeScript_Logo_%28Blue%29.svg/1280px-TypeScript_Logo_%28Blue%29.svg.png" alt="drawing" width="130" style="margin-left:20px;"/>
+</p></a>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="center"  style="margin-top: 40px">Check me out here in:</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">
+<a href="https://facebook.com/ven.honoridez" title="ven.joshua"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/150px-2021_Facebook_icon.svg.png" alt="drawing" width="50"  style="margin-left:20px;"/></a>
+<a href="https://twitter.com/ven_joshua" title="ven_joshua"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/100px-Twitter_Logo_as_of_2021.svg.png" alt="drawing" width="50"  style="margin-left:20px;"/></a>
+<a href="https://myanimelist.net/profile/TutuRuuuTuRuuu" title="TutuRuuuTuRuuu"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" width="50"  style="margin-left:20px;"/></a>
+<a href="https://www.linkedin.com/in/joshua-ven-honoridez" title="joshua-ven-honoridez"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"  style="margin-left:20px;"/>
+</p></a>
