@@ -52,4 +52,4 @@ jobs:
           app-name: "personal-ven"
           slot-name: "Production"
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08F44853566E4FACA21DFEFAD8AA5667 }}
-          package: .
+          package: ./out
